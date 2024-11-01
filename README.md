@@ -11,7 +11,7 @@ Linkedin: https://www.linkedin.com/in/andrew-lewis-181927220/ <br />
 Institute for Advanced Analytics (Class of 2025) <br />
 
 **BS in Statistics and BS in Economics** <br />
-**Data Science Minor** <br />
+Data Science Minor <br />
 University of North Carolina at Chapel Hill (Class of 2024)
 
 ## Practicum
