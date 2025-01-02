@@ -45,3 +45,23 @@ Product Management Intern | May 2023 – Aug 2023 <br />
 
 
 ## Projects
+**Logistic Regression** <br />
+
+
+**Practical Python** <br />
+
+
+**Time Series and Forecasting** <br />
+
+
+**Text Analytics** <br />
+
+
+**Data Mining** <br />
+
+
+**Machine Learning** <br />
+https://github.com/andrewlewis1/machine-learning
+
+**Survival Analysis** <br />
+
