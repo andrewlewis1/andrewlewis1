@@ -57,6 +57,9 @@ https://github.com/andrewlewis1/time-series <br />
 **Text Analytics** <br />
 https://github.com/andrewlewis1/text-analytics <br />
 
+**Women's Tennis Dashboard** <br />
+https://public.tableau.com/app/profile/gina.barbagallo7899/viz/NCStateWomensTennisOrange8/IntroDashboard?publish=yes <br />
+
 **Data Mining** <br />
 https://github.com/andrewlewis1/data-mining <br />
 
