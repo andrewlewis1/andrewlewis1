@@ -56,6 +56,7 @@ https://github.com/andrewlewis1/time-series <br />
 
 **Text Analytics** <br />
 https://github.com/andrewlewis1/text-analytics <br />
+https://public.tableau.com/app/profile/satya.munugoti/viz/YelpTipsSentimentanalysisofcuisinesacrossU_S_metroareas/Dashboard1 <br />
 
 **Women's Tennis Dashboard** <br />
 https://public.tableau.com/app/profile/gina.barbagallo7899/viz/NCStateWomensTennisOrange8/IntroDashboard?publish=yes <br />
