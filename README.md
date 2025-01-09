@@ -1,5 +1,5 @@
 # Data Professional
-**Technical Skills:** PCEP – Certified Entry-Level Python Programmer, R, Excel, and Jira
+**Technical Skills:** PCEP – Certified Entry-Level Python Programmer, R, SQL, Excel, and Jira
 
 ### Contact Me
 Phone Number: 704-421-4176 <br />
