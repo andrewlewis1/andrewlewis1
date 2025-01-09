@@ -45,27 +45,9 @@ Product Management Intern | May 2023 – Aug 2023 <br />
 
 
 ## Projects
-**Logistic Regression** <br />
-https://github.com/andrewlewis1/logistic-regression <br />
-
-**Practical Python** <br />
-https://github.com/andrewlewis1/practical-python <br />
-
-**Time Series and Forecasting** <br />
-https://github.com/andrewlewis1/time-series <br />
-
 **Text Analytics** <br />
 https://github.com/andrewlewis1/text-analytics <br />
 https://public.tableau.com/app/profile/satya.munugoti/viz/YelpTipsSentimentanalysisofcuisinesacrossU_S_metroareas/Dashboard1 <br />
 
 **Women's Tennis Dashboard** <br />
 https://public.tableau.com/app/profile/gina.barbagallo7899/viz/NCStateWomensTennisOrange8/IntroDashboard?publish=yes <br />
-
-**Data Mining** <br />
-https://github.com/andrewlewis1/data-mining <br />
-
-**Machine Learning** <br />
-https://github.com/andrewlewis1/machine-learning <br />
-
-**Survival Analysis** <br />
-https://github.com/andrewlewis1/survival-analysis <br />
