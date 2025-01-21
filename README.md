@@ -45,6 +45,10 @@ Product Management Intern | May 2023 – Aug 2023 <br />
 
 
 ## Projects
+**LLM Evaluation** <br />
+https://github.com/andrewlewis1/llm-evaluation <br />
+https://public.tableau.com/app/profile/andrew.lewis8236/viz/LLMComparison/Dashboard1 <br />
+
 **Text Analytics** <br />
 https://github.com/andrewlewis1/text-analytics <br />
 https://public.tableau.com/app/profile/satya.munugoti/viz/YelpTipsSentimentanalysisofcuisinesacrossU_S_metroareas/Dashboard1 <br />
