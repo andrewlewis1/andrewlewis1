@@ -33,16 +33,11 @@ Artificial Intelligence Intern | Dec 2023 — May 2024 <br />
 
 **nCino** <br />
 Product Management Intern | May 2023 – Aug 2023 <br />
-•	Collaborated with the Commercial Banking Experience Team <br />
-•	Assisted other product managers in addressing customer-specific functionality concerns <br />
-•	Organized issues related to accessibility within the user interface for product managers <br />
+•	Organized over 100 issues related to accessibility for disabled users using Jira and Lucidchart <br />
+•	Worked hands-on with product management of usage analytics <br />
+•	Completed an extensive problem-solving project that involved specifically outlining the acceptance criteria required for an effective solution, down to the user story level <br />
+•	Collaborated with the Commercial Banking Experience Team to address customer-specific functionality concerns <br />
 •	Completed Pendo and Salesforce courses to better address stakeholder use cases <br />
-•	Hands-on work with product management of usage analytics <br />
-•	Learned how product managers at nCino go about addressing a customer problem: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;•	Breaking down an overall solution into multiple epics (smaller groupings of work) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;•	Divide epics into multiple user stories <br />
-•	Completed an extensive problem-solving project that involved specifically outlining the acceptance criteria required for an effective solution, down to the user story level
-
 
 ## Projects
 **LLM Evaluation** <br />
